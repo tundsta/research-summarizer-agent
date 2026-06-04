@@ -65,3 +65,4 @@ Key seams and conventions:
 - `solution/DEFECTS.md` is the instructor's defects writeup.
 - `sample_outputs/*.json` are hand-curated `SummaryResult` examples with stable URLs (Wikipedia, NIH, quantum.gov). Verify liveness with `scripts/check_sample_urls.py` before each session.
 - `exercises/`, `notes/`, `instructions/` hold workshop material. `plans/` and `requirements/` hold design docs.
+- `docs/solutions/` holds documented solutions to past problems and durable workflow/testing learnings, organized by category with YAML frontmatter (`module`, `tags`, `problem_type`). Relevant when implementing or debugging in documented areas.

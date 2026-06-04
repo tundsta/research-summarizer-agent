@@ -1,0 +1,86 @@
+{
+  "description": "Recorded Tavily search results for deterministic Level 3 replay tests. Refresh intentionally with LIVE_LEVEL3_SEARCH=1 pytest tests/test_level3.py.",
+  "topics": {
+    "the discovery of penicillin": [
+      {
+        "title": "The Discovery of Penicillin | PBS LearningMedia",
+        "url": "https://www.pbslearningmedia.org/resource/odys08.sci.life.gen.discovery/the-discovery-of-penicillin",
+        "snippet": "# The Discovery of Penicillin | PBS LearningMedia. Image 1: PBS LearningMedia logo. Image 3: Google Classroom Share to Google ClassroomShare link with studentsBuild a lessonSocial share. # The Discovery of Penicillin. Video  Grades: 6-8, 9-12. This is a modal window. Discover the story of researcher Sir Alexander Fleming, whose luck and scientific reasoning led to the groundbreaking discovery of penicillin in this video segment adapted from _A Science Odyssey_. Image 4: A Science Odyssey. By the end of the eighth grade students should know that: The way in which cells function is similar in all living organisms.All \u201c5C/M3b\u201d resources. By the end of the twelfth grade students should know that: Knowledge of molecular structure and interactions aids in synthesizing new drugs and predicting their effects.All \u201c8F/H5\u201d resources. This results in a cell wall that is very weak in spots, and is unable to contain the growth of the cell membrane."
+      },
+      {
+        "title": "Discovery of penicillin - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Discovery_of_penicillin",
+        "snippet": "Scottish physician Alexander Fleming was the first to experimentally demonstrate that a Penicillium mould secretes an antibacterial substance, which he named"
+      },
+      {
+        "title": "The Discovery of Penicillin\u2014New Insights After More Than 75 Years ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5403050",
+        "snippet": "# The Discovery of Penicillin\u2014New Insights After More Than 75 Years of Clinical Use. An official website of the United States government. A **.gov** website belongs to an official government organization in the United States. Image 9: Close Search  Image 10: Search. This is a publication of the U.S. Government. This success overshadowed efforts to produce penicillin during World War II in Europe, particularly in the Netherlands. Researchers in the Netherlands produced penicillin using their own production methods and marketed it in 1946, which eventually increased the penicillin supply and decreased the price. At the beginning of the 20th century, Paul Ehrlich pioneered the search for a chemical that would kill a microorganism and leave the host unaltered\u2014the \u201cmagic bullet.\u201d Ehrlich also coined the term chemotherapy: \u201cThere must be planned chemical synthesis: proceeding from a chemical substance with recognizable activity, making derivatives from it, and then trying each to discover the degree of its activity and effectiveness."
+      },
+      {
+        "title": "The Discovery of Penicillin - Sir William Dunn School of Pathology",
+        "url": "https://www.path.ox.ac.uk/centenary/our-history/the-discovery-of-penicillin",
+        "snippet": "W. Florey, as part of a comprehensive programme of research on antibacterial substances, began work on penicillin at Oxford. Heatley, who was already a member of the department, because his plans to work with Lindestrom-Lang in Denmark were cut short by the war, was asked whether he was willing to take part in the penicillin project and agreed. As repeatedly pointed out by Florey himself, the work on penicillin in Oxford was graced by a great deal of good luck. If, as subsequently happened with many other antibiotics, penicillin had proved toxic to man, as it is to the guinea-pig, it would have been, to put it in Florey\u2019s own words \u201cjust another chemical curiosity\u201d. Abraham, who had recently completed his doctorate in the Department of Organic Chemistry at Oxford (the Dyson Perrins Laboratory) set about the difficult task of purifying penicillin and then determining its structure. Abraham was eventually completely successful in both these aims, and was the first to propose the correct chemical structure for penicillin."
+      },
+      {
+        "title": "Penicillin\u2019s Discovery and Antibiotic Resistance: Lessons for the Future? - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5369031",
+        "snippet": "An official website of the United States government. A **.gov** website belongs to an official government organization in the United States. # Penicillin\u2019s Discovery and Antibiotic Resistance: Lessons for the Future? 2016 marks the 75th anniversary of the first systemic administration of penicillin in humans, and is therefore an occasion to reflect upon the extraordinary impact that penicillin has had on the lives of millions of people since. This perspective presents a historical account of the discovery of the wonder drug, describes the biological nature of penicillin, and considers lessons that can be learned from the golden era of antibiotic research, which took place between the 1940s and 1960s. This is particularly relevant today as the emergence of multiple drug resistant bacteria poses a global threat, and joint efforts are needed to combat the rise and spread of resistance. Fleming\u2019s article on penicillin served as a basis for scientists at Oxford to begin research on new antimicrobials in 1939."
+      }
+    ],
+    "photosynthesis": [
+      {
+        "title": "Photosynthesis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Photosynthesis",
+        "snippet": "**Photosynthesis** (/\u02ccfo\u028at\u0259\u02c8s\u026an\u03b8\u0259s\u026as/ *FOH-t\u0259-SINTH-\u0259-sis*) is a system of biological processes by which photopigment-bearing autotrophic organisms, such as most plants, algae and cyanobacteria, convert light energy \u2014 typically from sunlight \u2014 into the chemical energy necessary to fuel their metabolism. The term *photosynthesis* usually refers to **oxygenic photosynthesis**, a process that releases oxygen as a byproduct of water splitting. Photosynthesis plays a critical role in producing and maintaining the oxygen content of the Earth's atmosphere, and it supplies most of the biological energy necessary for complex life on Earth. Archaea such as *Halobacterium* also perform a type of non-carbon-fixing anoxygenic photosynthesis, where the simpler photopigment retinal and its microbial rhodopsin derivatives \"Derivative (chemistry)\") are used to absorb green light and produce a proton (hydron) gradient across the cell membrane, and the subsequent ion movement powers transmembrane proton pumps to directly synthesize adenosine triphosphate (ATP), the \"energy currency\" of cells. In these light-dependent reactions, some energy is used to strip electrons from suitable substances, such as water, producing oxygen gas."
+      },
+      {
+        "title": "Photosynthesis - National Geographic Education",
+        "url": "https://education.nationalgeographic.org/resource/photosynthesis",
+        "snippet": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to create oxygen and energy in the form of sugar. Most life on Earth depends on photosynthesis.The process is carried out by plants, algae, and some types of bacteria, which capture energy from sunlight to produce oxygen (O2) and chemical energy stored in glucose (a sugar). During photosynthesis, plants take in carbon dioxide (CO2) and water (H2O) from the air and soil. This transforms the water into oxygen and the carbon dioxide into glucose. The plant then releases the oxygen back into the air, and stores energy within the glucose molecules. Within the thylakoid membranes of the chloroplast is a light-absorbing pigment called chlorophyll, which is responsible for giving the plant its green color. The chlorophyll absorbs energy from the light waves, which is converted into chemical energy in the form of the molecules ATP and NADPH."
+      },
+      {
+        "title": "Photosynthesis - PMC - NIH",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5264509",
+        "snippet": "A **.gov** website belongs to an official government organization in the United States. The process of photosynthesis in plants is based on two reactions that are carried out by separate parts of the chloroplast. The light reactions occur in the chloroplast thylakoid membrane and involve the splitting of water into oxygen, protons and electrons. The ATP and NADPH are then utilized by the enzymes of the Calvin\u2013Benson cycle (the dark reactions), which converts CO 2 into carbohydrate in the chloroplast stroma. Oxygenic photosynthesis involves the conversion of water and CO 2 into complex organic molecules such as carbohydrates and oxygen. In the light reactions, water is split using light into oxygen, protons and electrons, and in the dark reactions, the protons and electrons are used to reduce CO 2 to carbohydrate (given here by the general formula CH 2 O). The light reactions of photosynthesis involve light-driven electron and proton transfers, which occur in the thylakoid membrane, whereas the dark reactions involve the fixation of CO 2 into carbohydrate, via the Calvin\u2013Benson cycle, which occurs in the stroma (Figure 3)."
+      },
+      {
+        "title": "Why Study Photosynthesis | Center for Bioenergy and Photosynthesis",
+        "url": "https://bioenergy.asu.edu/why-study-photosynthesis",
+        "snippet": "The energy stored in petroleum, natural gas and coal all came from the sun via photosynthesis, as does the energy in firewood, which is a major fuel in many parts of the world. If we can understand and control the intricacies of the photosynthetic process, we can learn how to increase crop yields of food, fiber, wood, and fuel, and how to better use our lands. Because photosynthesis helps control the makeup of our atmosphere, understanding photosynthesis is crucial to understanding how carbon dioxide and other \"greenhouse gases\" affect the global climate. Although plants draw necessary materials from the soil and water and carbon dioxide from the air, the energy needs of the plant are filled by sunlight. It is the process by which plants change the energy in sunlight to kinds of energy that can be stored for later use. One of the major energy-harvesting processes in plants involves using the energy of sunlight to convert carbon dioxide from the air into sugars, starches, and other high-energy carbohydrates."
+      },
+      {
+        "title": "Photosynthesis | Definition, Formula, Process, Diagram, Reactants ...",
+        "url": "https://www.britannica.com/science/photosynthesis",
+        "snippet": "* History of the study of photosynthesis. # photosynthesis. Coauthor of *Photosynthesis of Carbon Compounds;...*. ### Why is photosynthesis important? Additionally, almost all the oxygen in the atmosphere is because of the process of photosynthesis. If photosynthesis ceased, there would soon be little food or other organic matter on Earth, most organisms would disappear, and Earth\u2019s atmosphere would eventually become nearly devoid of gaseous oxygen. **photosynthesis**, the process by which green plants and certain other organisms transform light energy into chemical energy. During photosynthesis in green plants, light energy is captured and used to convert water, carbon dioxide, and minerals into oxygen and energy-rich organic compounds. ## Importance of photosynthesis. If photosynthesis ceased, there would soon be little food or other organic matter on Earth. Energy produced by photosynthesis carried out by plants millions of years ago is responsible for the fossil fuels (i.e., coal, oil, and natural gas) that power industrial society."
+      }
+    ],
+    "urban heat islands": [
+      {
+        "title": "Urban Heat Island",
+        "url": "https://education.nationalgeographic.org/resource/urban-heat-island",
+        "snippet": "# Urban Heat Island. An urban heat island, or UHI, is a metropolitan area that's a lot warmer than the rural areas surrounding it. Heat is created by energy from all the people, cars, buses, and trains in big cities like New York, Paris, and London. Urban heat islands are created in areas like these: places that have lots of activity and lots of people. There are many reasons for UHIs. When houses, shops, and industrial buildings are constructed close together, it can create a UHI. The energy people burn off usually escapes in the form of heat. And if there are a lot of people in one area, that's a lot of heat. Urban areas are densely populated, meaning there are a lot of people in a small space. This is especially true in urban areas that suffer from urban heat island effects. The Heat Island Group says that the urban heat island around Los Angeles, California, costs the city $100 million a year in energy!"
+      },
+      {
+        "title": "Urban heat island - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Urban_heat_island",
+        "snippet": "# Urban heat island. The **urban heat island** (**UHI**) effect is a meteorological and climatological phenomenon in which urban areas experience significantly warmer temperatures than surrounding rural areas. The main cause of the UHI effect is from the modification of land surfaces, while waste heat generated by energy usage is a secondary contributor. Not all cities have a distinct urban heat island, and the heat island characteristics depend strongly on the background climate of the area where the city is located. Climate change is not the cause of urban heat islands, but it is causing more frequent and more intense heat waves, which in turn amplify the urban heat island effect in cities (see climate change and cities).:\u200a993 Compact and dense urban development may also increase the urban heat island effect, leading to higher temperatures and increased exposure."
+      },
+      {
+        "title": "Urban Heat Islands | MIT Climate Portal",
+        "url": "https://climate.mit.edu/explainers/urban-heat-islands",
+        "snippet": "###### New to Climate Change? # Urban Heat Islands. The urban heat island effect is a phenomenon whereby cities experience higher air temperatures than the surrounding countryside. On average, cities tend to be 1-7\u00b0F warmer during the daytime.1 This difference continues well into the night, during which cities can still be as much as 5\u00b0F warmer than the areas around them.1 Scientists refer to areas afflicted by these higher temperatures as *urban heat islands*. People living in urban heat islands are especially vulnerable to the effects of climate change. As the planet warms, urban heat islands will only intensify those higher temperatures.2 And since nearly 70% of humanity will live in cities by 2050,3 finding ways to alleviate urban heat islands has become even more pressing. By heightening air temperatures and intensifying heatwaves, they can cause heat stroke and heat exhaustion as well as other illnesses, like heart attacks.4 These health impacts are often felt inequitably, with low-income and minority communities tending to live in areas more susceptible to heat islands.5. Climate Change and Heat Islands."
+      },
+      {
+        "title": "What Is an Urban Heat Island? - NASA Science",
+        "url": "https://science.nasa.gov/kids/earth/what-is-an-urban-heat-island",
+        "snippet": "An urban heat island occurs when a city experiences much warmer temperatures than nearby rural areas."
+      },
+      {
+        "title": "What Are Heat Islands? | US EPA",
+        "url": "https://www.epa.gov/heatislands/what-are-heat-islands",
+        "snippet": "Structures such as buildings, roads, and other infrastructure absorb and re-emit the sun\u2019s heat more than natural landscapes such as forests and water bodies. These pockets of heat are referred to as \u201cheat islands.\u201d Heat islands can form under a variety of conditions, including during the day or night, in small or large cities, in suburban areas, in northern or southern climates, and in any season. A review of research studies and data found that in the United States, the heat island effect results in daytime temperatures in urban areas about 1\u20137\u00b0F higher than temperatures in outlying areas and nighttime temperatures about 2\u20135\u00b0F higher. Conventional human-made materials used in urban environments such as pavements or roofing tend to reflect less solar energy, and absorb and emit more of the sun\u2019s heat compared to trees, vegetation, and other natural surfaces. **Atmospheric Heat Islands.** These heat islands form as a result of warmer air in urban areas compared to cooler air in outlying areas."
+      }
+    ]
+  }
+}
