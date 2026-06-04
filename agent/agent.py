@@ -46,7 +46,9 @@ def summarize(topic: str, search_tool: SearchTool | None = None) -> SummaryResul
         search_tool = _default_search_tool()
 
     results = search_tool.search(topic, max_results=5)
-    # TODO: handle empty results
+    if not results:
+        raise NoResultsError("no search results found")
+
     user_message = build_user_message(topic, results)
 
     model = os.environ.get("SUMMARIZER_MODEL", _DEFAULT_MODEL)
@@ -61,8 +63,13 @@ def summarize(topic: str, search_tool: SearchTool | None = None) -> SummaryResul
         tools=[
             {
                 "name": _TOOL_NAME,
-                "description": "Return the structured research summary.",
+                "description": (
+                    "Return the structured research summary with key_findings "
+                    "as a JSON array of strings and citations as a JSON array "
+                    "of source objects."
+                ),
                 "input_schema": summary_result_tool_schema(),
+                "strict": True,
             }
         ],
         tool_choice={"type": "tool", "name": _TOOL_NAME},
